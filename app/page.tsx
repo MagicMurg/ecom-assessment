@@ -1,7 +1,12 @@
 export default function Home() {
   return (
     <div>
-      <p>Home</p>
+      <center>
+        <h1>ShredderBox</h1>
+      </center>
+
+
+
     </div>
   );
 }
